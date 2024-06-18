@@ -1,26 +1,26 @@
-name = "sg1" # todo
+name = "vultr1" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "sg1.molos.filegear-sg.me"
+pattern = "vultr1.molos.filegear-sg.me"
 custom_domain = true
 [[routes]]
-pattern = "quiz.vidio.com.sg1.molos.filegear-sg.me"
+pattern = "quiz.vidio.com.vultr1.molos.filegear-sg.me"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.sg1.molos.filegear-sg.me"
+pattern = "quiz.int.vidio.com.vultr1.molos.filegear-sg.me"
 custom_domain = true
 [[routes]]
-pattern = "blog.webex.com.sg1.molos.filegear-sg.me"
+pattern = "blog.webex.com.vultr1.molos.filegear-sg.me"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.sg1.molos.filegear-sg.me"
+pattern = "ava.game.naver.com.vultr1.molos.filegear-sg.me"
 custom_domain = true
 [[routes]]
-pattern = "zoomcares.zoom.us.sg1.molos.filegear-sg.me"
+pattern = "zoomcares.zoom.us.vultr1.molos.filegear-sg.me"
 custom_domain = true
 
 [vars]
